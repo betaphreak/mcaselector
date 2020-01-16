@@ -1,6 +1,5 @@
 .idea
 out
-.gradle
 *.iml
 *.mca
 cache/
